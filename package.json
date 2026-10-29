@@ -1,0 +1,1 @@
+{"name":"jhuliano-boeira-site","version":"0.2.0","private":true,"description":"Site Jhuliano Boeira — Etapa 2","scripts":{"start":"python3 -m http.server 8080"}}
